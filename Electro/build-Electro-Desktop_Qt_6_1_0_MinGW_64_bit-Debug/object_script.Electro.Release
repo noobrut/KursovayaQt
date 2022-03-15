@@ -1,0 +1,17 @@
+release/buyer.o
+release/deliveries.o
+release/issuing.o
+release/main.o
+release/mainwindow.o
+release/product.o
+release/provider.o
+release/sklad.o
+release/worker.o
+release/moc_buyer.o
+release/moc_deliveries.o
+release/moc_issuing.o
+release/moc_mainwindow.o
+release/moc_product.o
+release/moc_provider.o
+release/moc_sklad.o
+release/moc_worker.o
