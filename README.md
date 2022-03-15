@@ -1,0 +1,2 @@
+# KursovayaQt
+Qt+Db(postgres)
